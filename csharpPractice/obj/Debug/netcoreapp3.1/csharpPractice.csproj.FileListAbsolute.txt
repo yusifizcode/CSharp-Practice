@@ -1,0 +1,14 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\bin\Debug\netcoreapp3.1\csharpPractice.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\bin\Debug\netcoreapp3.1\csharpPractice.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\bin\Debug\netcoreapp3.1\csharpPractice.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\bin\Debug\netcoreapp3.1\csharpPractice.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\bin\Debug\netcoreapp3.1\csharpPractice.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\bin\Debug\netcoreapp3.1\csharpPractice.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\obj\Debug\netcoreapp3.1\csharpPractice.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\obj\Debug\netcoreapp3.1\csharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\obj\Debug\netcoreapp3.1\csharpPractice.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\obj\Debug\netcoreapp3.1\csharpPractice.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\obj\Debug\netcoreapp3.1\csharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\obj\Debug\netcoreapp3.1\csharpPractice.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\obj\Debug\netcoreapp3.1\csharpPractice.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpPractice\csharpPractice\obj\Debug\netcoreapp3.1\csharpPractice.genruntimeconfig.cache
